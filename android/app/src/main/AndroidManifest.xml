@@ -25,9 +25,9 @@
         <action android:name="android.intent.action.VIEW"/>
         <category android:name="android.intent.category.DEFAULT"/>
         <category android:name="android.intent.category.BROWSABLE"/>
-        <data android:scheme="pizzaapp"/>
-        <data android:scheme="com.pizzaapp"/>
-        <data android:scheme="exp+pizzaapp"/>
+        <data android:scheme="rnboilerplate"/>
+        <data android:scheme="com.rnboilerplate"/>
+        <data android:scheme="exp+rnboilerplate"/>
       </intent-filter>
     </activity>
     <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" android:exported="false"/>

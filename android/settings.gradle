@@ -1,4 +1,4 @@
-rootProject.name = 'PizzaApp'
+rootProject.name = 'RNBoilerplate'
 
 dependencyResolutionManagement {
   versionCatalogs {

@@ -83,9 +83,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.pizzaapp'
+    namespace 'com.rnboilerplate'
     defaultConfig {
-        applicationId 'com.pizzaapp'
+        applicationId 'com.rnboilerplate'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
